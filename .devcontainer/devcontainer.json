@@ -1,5 +1,0 @@
-{
-  "service": "frontend-dev",
-  "dockerComposeFile": "../docker-compose.yaml",
-  "forwardPorts": [3000]
-}
